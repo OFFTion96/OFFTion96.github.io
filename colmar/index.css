@@ -24,7 +24,8 @@ body {
   max-width: 300px;
   display: flex;
   flex-direction: column;
-  margin-left: 24px;
+  margin-left: 50px;
+  
 }
 
 #banner-container #banner-text h1 {
@@ -43,4 +44,93 @@ body {
   border: unset;
   padding: 8px 0px;
   margin-top: 24px;
+ 
 }
+header {
+  margin: 0;
+  padding: 32px 0;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  
+}
+nav li{
+
+  display:inline-block;
+  padding: 16px;
+  font-size: 18px;
+  
+  
+}
+nav ul{
+  position: absolute;
+  
+  left: 850px;
+  bottom: 5%;
+ 
+}
+nav h2{
+  position: absolute;
+  left: 30px;
+  bottom: 25%;
+  
+}
+nav img{
+  position: absolute;
+  bottom: 25%;
+}
+
+
+#banner-container2 {
+
+  display: flex;
+  align-items: left;
+  padding: 32px 24px;
+  background-color: #df6161;
+  
+  flex-direction: column;
+}
+#banner-container2 img {
+  width: 60%;
+}
+
+#banner-container2 #banner-text2 {
+max-width: 700px;
+
+position: relative;
+margin-top: 32px;
+}
+#banner-text2 p{
+  margin-top: 24px;
+}
+#banner-container3{
+  width: 100%;
+  height: 500px;
+  background-color: #d7d7d7;
+ 
+}
+
+
+.box{
+  border: 2px solid;
+  width: 100px;
+  
+  margin: 0px 32px 0px 32px;
+
+
+}
+.start{
+  text-align: center;
+  background-color: whitesmoke;
+  padding: 32px;
+}
+#banner-box{
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center
+
+}
+
+
+
+
