@@ -87,7 +87,7 @@ nav img{
   display: flex;
   align-items: left;
   padding: 32px 24px;
-  background-color: #df6161;
+  background-color: #dfdbdb;
   
   flex-direction: column;
 }
@@ -155,6 +155,15 @@ section p {
 .box{
   background-color: white;
 }
+
+#banner-box2{
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:0px
+}
+
 
 
 
