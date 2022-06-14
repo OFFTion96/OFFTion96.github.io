@@ -163,7 +163,11 @@ section p {
   align-items: center;
   margin-top:0px
 }
-
+.thesis{
+  text-align: center;
+  background-color: #dfdbdb;
+  padding: 32px;
+}
 
 
 
